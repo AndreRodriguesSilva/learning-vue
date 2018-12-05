@@ -1,2 +1,2 @@
 # learning-vue
-Vue Courses lessons
+Vue Course lessons
